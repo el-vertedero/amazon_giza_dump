@@ -1,0 +1,14 @@
+# full_giza-user 5.1.1 LVY48F 49.6.2.6_user_626542120 release-keys
+- manufacturer: amazon
+- platform: mt8163
+- codename: giza
+- flavor: full_giza-user
+- release: 5.1.1
+- id: LVY48F
+- incremental: 49.6.2.6_user_626542120
+- tags: release-keys
+- fingerprint: Amazon/full_giza/giza:5.1.1/LVY48F/49.6.2.6_user_626542120:user/release-keys
+- is_ab: false
+- brand: Amazon
+- branch: full_giza-user-5.1.1-LVY48F-49.6.2.6_user_626542120-release-keys
+- repo: amazon_giza_dump
